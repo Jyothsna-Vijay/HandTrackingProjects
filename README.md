@@ -10,35 +10,43 @@ These projects highlight practical experience with data structures, algorithms, 
 
 **AI Virtual Mouse**
 
-- Control the mouse pointer using hand gestures.
+- AI-powered virtual mouse in Python using OpenCV, implementing contour detection and gesture recognition algorithms to replace hardware input with hand tracking.
 
-- Detects finger positions to move the cursor and perform click actions.
+  - Control the mouse pointer using hand gestures.
 
-- Demonstrates mapping of hand landmark coordinates to screen coordinates.
+  - Detects finger positions to move the cursor and perform click actions.
+
+  - Demonstrates mapping of hand landmark coordinates to screen coordinates.
 
 **AI Virtual Painter**
 
-- Draw on the screen using finger movements.
+- Gesture-based virtual painting application, applying hand-tracking algorithms and coordinate mapping to enable intuitive real-time drawing without hardware peripherals.
 
-- Supports multiple colours and a rubber tool.
+  - Draw on the screen using finger movements.
 
-- Implements smoothing of hand trajectories for natural drawing.
+  - Supports multiple colours and a rubber tool.
+
+  - Implements smoothing of hand trajectories for natural drawing.
 
 **Volume Control**
 
-- Control system volume using the distance between the thumb and index finger.
+- Computer-vision-based volume controller using distance algorithms on hand landmarks, enabling natural, touch-free interaction with system audio.
 
-- Implements linear interpolation and smoothing for smooth control.
+  - Control system volume using the distance between the thumb and index finger.
 
-- Visual sound bar for easy recognition.
+  - Implements linear interpolation and smoothing for smooth control.
+
+  - Visual sound bar for easy recognition.
 
 **Finger Counter**
 
-- Counts the number of fingers held up in real time.
+- Real-time finger counting system with computer vision, leveraging hand landmarks for number recognition.
 
-- Useful for gesture recognition and interactive applications.
+  - Counts the number of fingers held up in real time.
 
-- Demonstrates logic for analysing Mediapipe hand landmarks.
+  - Useful for gesture recognition and interactive applications.
+
+  - Demonstrates logic for analysing Mediapipe hand landmarks.
 
 # Features / Highlights
 
